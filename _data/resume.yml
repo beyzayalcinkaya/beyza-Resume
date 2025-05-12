@@ -1,0 +1,38 @@
+name: Beyza Yalçınkaya
+tagline: Elektrik-Elektronik Mühendisi | React Native & iOS Geliştirici
+email: beyzayalcinkaya@example.com
+phone: +90 5xx xxx xx xx
+website: https://beyzayalcinkaya.github.io/beyza-Resume
+location: Türkiye
+
+profiles:
+  - network: LinkedIn
+    username: beyzayalcinkaya
+    url: https://www.linkedin.com/in/beyzayalcinkaya
+  - network: GitHub
+    username: beyzayalcinkaya
+    url: https://github.com/beyzayalcinkaya
+
+education:
+  - degree: Elektrik-Elektronik Mühendisliği
+    school: [Üniversitenin Adı]
+    dates: 2020 - 2024
+
+skills:
+  - name: Programlama Dilleri
+    keywords: [JavaScript, Swift, Python, C, C++]
+  - name: Web & Mobil
+    keywords: [React, React Native, HTML, CSS, SwiftUI]
+  - name: Donanım
+    keywords: [Arduino, Proteus, Quartus, Altium Designer]
+
+languages:
+  - language: Türkçe
+    fluency: Ana dil
+  - language: İngilizce
+    fluency: Orta seviye
+
+interests:
+  - item: Bilim kurgu filmleri
+  - item: Spor salonu ve ağırlık çalışmak
+  - item: Kitap yazmak ve okumak
